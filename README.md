@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 <p align="center">
-  <img style="display: inline;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jetunes&theme=prussian" alt="jetunes" />
+  <img style="display: inline;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jetunes&count_private&theme=prussian" alt="jetunes" />
   <br/><br/>
 </p>
 
